@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583174623 source:c:\xxxcrutoxxx\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
